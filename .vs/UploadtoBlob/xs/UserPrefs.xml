@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{56086ECA-B205-47A0-A51E-95E29D98DA3D}|Default">
+  <MonoDevelop.Ide.ItemProperties.UploadtoBlob.iOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UploadtoBlob/UploadtoBlob.Android/MainActivity.cs">
+    <Files>
+      <File FileName="UploadtoBlob/UploadtoBlob/MainPage.xaml" Line="13" Column="44" />
+      <File FileName="UploadtoBlob/UploadtoBlob/MainPage.xaml.cs" Line="80" Column="17" />
+      <File FileName="UploadtoBlob/UploadtoBlob.Android/Services/AndroidMicrophoneService.cs" Line="76" Column="10" />
+      <File FileName="UploadtoBlob/UploadtoBlob.Android/MainActivity.cs" Line="54" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UploadtoBlob" expanded="True">
+            <Node name="UploadtoBlob" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" />
+            </Node>
+            <Node name="UploadtoBlob.Android" expanded="True">
+              <Node name="Services" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
+            </Node>
+            <Node name="UploadtoBlob.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UploadtoBlob.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
